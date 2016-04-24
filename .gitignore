@@ -1,0 +1,25 @@
+.gradle
+Splash.iml
+Main App.iml
+app.iml
+local.properties
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+build/
+captures/
+festnimbus.iml
+patches/
+*.patch
+gradle.properties
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
